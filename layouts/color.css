@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: yellow;
+}
+div
+{
+    border: 1px solid black;
+}
+.header
+{
+    background-color: orange;
+}
+.footer
+{
+    background-color:pink;
+}
+.aside
+{
+    background-color: green;
+}
+.main
+{
+    background-color: brown;
+}
+.article
+{
+    background-color: burlywood;
+}
